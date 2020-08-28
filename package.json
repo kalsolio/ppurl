@@ -6,7 +6,7 @@
     "url": "git@gitlab.alibaba-inc.com:tm/buy-m.git"
   },
   "dependencies": {
-    "cheerio": "~0.18.0",
+    "cheerio": "~0.20.0",
     "fs-extra": "~0.14.0",
     "request": "~2.51.0",
     "urlencode": "~0.2.0",
