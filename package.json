@@ -8,7 +8,7 @@
   "dependencies": {
     "cheerio": "~0.18.0",
     "fs-extra": "~0.14.0",
-    "request": "~2.51.0",
+    "request": "~2.76.0",
     "urlencode": "~0.2.0",
     "worker-farm": "~1.1.0"
   }
